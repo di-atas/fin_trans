@@ -1,2 +1,2 @@
 # fin_trans
-Tool for identifying patterns within banking transactions
+This notebook displays an example on how fraudulent transaction data can be examined and a model that generalizes these rules can be built. XGBoost performs well here because of the unbalanced dataset and potential non-linearity of financial fraud. XGBoost also handles outliers very well while built-in feature importance easily makes a non-technical reader understand the important features.
